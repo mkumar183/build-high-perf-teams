@@ -1,0 +1,20 @@
+Patience
+Attention to details 
+Ability to break down larger problems in smaller problems 
+Simplification of Architecture 
+clear documentation 
+Clean code - others can read 
+Care while coding - logging, exception handling 
+Error handling 
+Empathy or understanding of customers and other engineers 
+Performance awareness
+Security awareness 
+Where are developers killing time - waiting / blocking 
+Conducting root cause analysis 
+Paying attention to Technical Debt 
+Ability to make trade offs between rollout dates and quality / automation . 
+DevOps activities - releasing software easily and quickly. 
+Automation suite - testing 
+
+
+Once you identify list of traits and behaviors that are important to your team, you need to create a plan to address these behaviour changes. These 

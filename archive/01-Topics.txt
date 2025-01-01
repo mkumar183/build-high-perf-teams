@@ -1,0 +1,25 @@
+Introduction: 
+Team Definition. In this define a what is a team vs a set of individual. Emphasize why talented individuals is not enough to form a team people should learn how to work with each other. 
+
+What is a Team ? A set of individuals with a common shared goals. 
+
+A Team is a set of individual who have learned to work with each other. Its not just a set of individual. 
+Provide some quotes as a quote from Michael Jordan and Dream Team example from 1992 US men's olympic basketball team. 
+
+As a leader you will need to 
+- be aware of member's needs
+- mentor and coach them
+- acknowledge performance and contributions
+- resolve problems/conflicts 
+
+How do you create a high performance team in general and what are the specifics of creating these for teams building softwares using Agile scrum methologies. While a software team is similar to other team dynamics, however hope this book / paper help you in understanding nuances of a software team, provide some examples of conflicts and situations team face and how you can help and navigate team over a long period of time. 
+
+Why Build Software Teams ? 
+An individual can accomplish only so much. For building any software you need multiple skills. Plus you need someone to market and sell the software and manage customer expectations. A Team with a common purpose can serve millions of people creating value that can be exponentially higher than individuals can make. However, Building high performing engineering teams does not come without challenges. And this is where many leaders and company fails to their competition. Being able to build such teams is required for building high networth teams. 
+
+
+
+1. Culture is the backbone of a High Performance Culture. 
+2. Culture is created by Leadership 
+3. Blend of culture , leadership and execution skills is what creates a high performance team.
+4. Career Ladder an important tool 

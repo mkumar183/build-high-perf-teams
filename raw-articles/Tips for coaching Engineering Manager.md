@@ -1,0 +1,2 @@
+Behavioral improvements are for day to day coaching like sprint meetings stand ups retro. 
+Quarterly reviews are for Achievements. What did they achieve. You can relate how good behaviors such as communication, jira comments, dedication resulted into these outcomes however focus remains on outcomes. 

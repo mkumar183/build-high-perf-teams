@@ -1,0 +1,43 @@
+Notes from The Science of High Performance Teams - David Burkus: 
+
+What does not often work: 
+- Hiring best talent which could be very expensive and not available at all 
+- Team Building 
+
+Habits, Norms, Behaviors = Culture 
+Culture = Values + Behaviors
+
+
+What does Research say about 3 things that are paramount common in High performance Teams: 
+1. Common/Shared Understanding 
+   1.1 Martin Hass. Clarity, Context, Common Vocabulary, Understanding of my role and role of other people in the team, Context and Preferences. How you fixed several terms such as Multi-Tenant Tenant vs Multi-District Tenant. How different people meant about term "Environment". Tenant Manager Environment. When i would communicate with people i would hear different terms from different teams and I found it extremely useful to bring these terms together and have a common understanding about these terms and acronyms. I would use this opportunity for every new engineer onboarded who would write down 20 words that team uses which he/she founded difficult to understand. Typically teams will develop a tribal language and getting this tribal language documented and come to a common understanding and also making this part of onboarding guide made it easy for teams to develop common understanding.
+   One of the challenge with US Team was having lot of 'tribal knowledge' they developed the software in their own way and nobody else knew about how the process and system work in entirety. And it was not an industry standard way. 
+   
+   1.2 Empathy: I understand more about you beyond this job. How much people know about each other outside their jobs. Different personality. Acceptance of how are others. Introverts vs Extroverts etc. e.g. what different people write in emails/slack and what they mean ? Haiku person vs Novelist. Late night emailer vs Work hour email persons. Vampires. Sense of Empathy. Role play in case one of the person loses close family member.
+   Huddles can be a great way to build Empathy for each other. How do people work. How do they act. 
+   What they mean when they say or do something which is not strictly work related.
+   Whats blocking my progress. 
+      
+2. Psychological Safety 
+   How you set goals in teams relates to psychological safety. Myself being at a senior level, i have faced this challenge. Once when i was working with a CEO directly and i asked him about my goals, he wrote so many unmeasuresable things and complex goals that i knew he could fire me any day or in any review he can easily rate me Not meeting expectations.
+   
+   Ask this question to yourself when you set goals. If these were your goals, would you feel safe with these goals. 
+   In my own organisation, a statement started flying that such and such person is most expensive person and such and such people are highly paid. An initiative was started to have succession planning done for each individual in senior leadership team. Each of the SLT member was expected to identify and name an individual that could succeed him/her and then there was an elaborated plan to train these individuals. This was an example of create unsafe environment. 
+   
+   On the other hand, I remember i was working for building a large team in India for an organisation we recently acquired and i suddenly found that over a long period of time such as 3+ months only thing i was doing was recruiting. I was only interviewing candidates for various roles. And now i got a self-doubt. Am i contributing enough to my organisation. I spoke to my manager Nathan and he immediately told me that "Hiring is a P0 Activity". I wish i was doing only something that P0 for the company. And that one statement gave me so much assurance that i continued working with higher zeal on that assignment. 
+   
+   Many companies end up creating unsafe environment when they expand their operations across geographies for cost saving purposes. While creating an offshore center and creating scalability in the organisation is a great initiative when company is growing. However, if you repeatedly take actions such as you hire people in one location and fire in another location, a very significant signal you are sending to your people is that environment is unsafe. In such an unsafe environment organisation is not going to thrive. One alternative to this is to be transparent. And provide your long term plan. That in next 3 years we like to have 50:50 workforce in these locations and until then we are not going to be hiring in this location. While we will also not be firing any exiting resources. Also, create and communicate a clear plan of how folks in each geographies will work with each other. What would be their growth path etc. These are very important decision where you need to be highly transparent. 
+   
+   Organisations and leaders need to internalise one thing. You cannot be high-performing organisation if you do not have high-performing teams. And you cannot have high-performing teams unless individuals working in these are highly motivated, self-driven and they want to achieve higher heights. This can only happen an "Environemnt" is created for them to thrive. 
+   
+   How you build your reward system goes towards this. Humans are controlled via psychology of +ve and -ve impressions of what they do. When you reward the right behavior you will then have more of that being replicated by your workforce. Hence building your reward system around these right behaviour traits is something that ends up letting people know what make them thrive and they try to do repeat such behavior again and again. 
+   
+3. Pro-Social Purpose
+   Who do they serve rather than why are they what they are doing. 
+   Bringing teams closer to end users. 
+   Making engineers release their softwares more frequently and into production. 
+   Making engineer observe their own features and bugs and providing them autonomy to do it so. 
+   Asking teams to write story about who do they serve. 
+
+
+
