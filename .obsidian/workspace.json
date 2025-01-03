@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series 2025/1.0 Book TOC.md",
+                "file": "Book - Building High Performing Teams for Software Applications/Side Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 Book TOC"
+              "title": "Side Notes"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 448.5
   },
   "right": {
     "id": "f6aa9c99201d8efc",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series 2025/1.0 Book TOC.md",
+                "file": "Book - Building High Performing Teams for Software Applications/2.1 Foundations of High-Performing Teams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.0 Book TOC"
+              "title": "Backlinks for 2.1 Foundations of High-Performing Teams"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series 2025/1.0 Book TOC.md",
+                "file": "Book - Building High Performing Teams for Software Applications/2.1 Foundations of High-Performing Teams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.0 Book TOC"
+              "title": "Outgoing links from 2.1 Foundations of High-Performing Teams"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series 2025/1.0 Book TOC.md"
+                "file": "Book - Building High Performing Teams for Software Applications/2.1 Foundations of High-Performing Teams.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.0 Book TOC"
+              "title": "Outline of 2.1 Foundations of High-Performing Teams"
             }
           }
         ]
@@ -165,13 +165,19 @@
   },
   "active": "61a7c081bc4052cc",
   "lastOpenFiles": [
+    "Book - Building High Performing Teams for Software Applications/2.1 Foundations of High-Performing Teams.md",
+    "Book - Building High Performing Teams for Software Applications/Side Notes.md",
+    "Topics.md",
+    "raw-articles/Scaling Agile Teams for Large Products. Overcoming the Innovation Slowdown.md",
+    "Book - Building High Performing Teams for Software Applications/1.0 Book TOC.md",
+    "Book - Building High Performing Teams for Software Applications/1.1 Introduction.md",
     "Series 2025/0.0 Series - HPT.md",
-    "Series 2025/1.0 Book TOC.md",
+    "Book - Building High Performing Teams for Software Applications",
+    "napkin-selection.png",
     "Series 2025/1.1 The DNA of High-Performing Engineering Teams.md",
     "raw-articles/02 Role of Leadership in Building High Performance TEams.md",
     "abc.md",
     "Untitled 1.md",
-    "Topics.md",
     "Tips for Writing Technical Articles.md",
     "SpotifyScaling.pdf",
     "quotes.md",
@@ -187,21 +193,16 @@
     "raw-articles/Tips for coaching Engineering Manager.md",
     "raw-articles/SpotifyScaling.pdf",
     "raw-articles/Slack Channels.md",
-    "raw-articles/Scaling Agile Teams for Large Products. Overcoming the Innovation Slowdown.md",
     "raw-articles/rough notes.md",
     "raw-articles/SGY PE Charter (v3).pdf",
     "raw-articles/Role of an Architect.md",
     "raw-articles/Scaling the Agile Teams for Large Products.md",
     "raw-articles/Organization Culture. Loyalty vs Integrity.md",
-    "raw-articles/Random Notes.md",
-    "raw-articles/management-jargon.md",
-    "raw-articles/How leaders can leverage AI wave in their favor.md",
     "raw-articles/essence-of-leadership.jpg",
     "raw-articles/Dev Charter - version 2.pdf",
     "raw-articles",
     "archive/who-serves-your-customers.JPG",
     "archive/The Science of High Performance Teams - David Burkus.txt",
-    "archive/Leadership.txt",
-    "archive/Leadership - openai.txt"
+    "archive/Leadership.txt"
   ]
 }
