@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Delivery Excellence Toolkit/Team Work.md",
+                "file": "Snowflake Dashboards/04 Sprint Ops Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team Work"
+              "title": "04 Sprint Ops Review"
             }
           }
         ],
@@ -195,8 +195,23 @@
   },
   "active": "b1c0505b71722875",
   "lastOpenFiles": [
-    "Delivery Excellence Toolkit/Book on Psychological Safety by AI AGents.md",
+    "Snowflake Dashboards/Pasted image 20250328215738.png",
+    "Snowflake Dashboards/04 Sprint Ops Review.md",
+    "Snowflake Dashboards/Pasted image 20250328215834.png",
+    "Snowflake Dashboards/Pasted image 20250328215814.png",
+    "Snowflake Dashboards/Pasted image 20250328214420.png",
+    "Snowflake Dashboards/03 Current Sprint Progress.md",
+    "Snowflake Dashboards/Pasted image 20250328214451.png",
+    "Snowflake Dashboards/02 Incoming and Resolved.md",
+    "Snowflake Dashboards/Pasted image 20250328163514.png",
+    "Snowflake Dashboards/01 Backlog Analysis.md",
+    "Snowflake Dashboards/Pasted image 20250328162439.png",
+    "Snowflake Dashboards/Pasted image 20250328162759.png",
+    "Snowflake Dashboards/00 Headcount and Teams.md",
+    "Untitled 1.md",
+    "Snowflake Dashboards",
     "Delivery Excellence Toolkit/Team Work.md",
+    "Delivery Excellence Toolkit/Book on Psychological Safety by AI AGents.md",
     "Delivery Excellence Toolkit/Factors Impeding Scale.png",
     "Book - Building High Performing Teams for Software Applications/1.1 Introduction.md",
     "Book - Building High Performing Teams for Software Applications/2.1 Foundations of High-Performing Teams.md",
@@ -207,7 +222,6 @@
     "Delivery Excellence Toolkit/5.0 Toolkit Links.md",
     "Delivery Excellence Toolkit/1.0 Delivery Organization.md",
     "Delivery Excellence Toolkit/Team Structure.md",
-    "Delivery Excellence Toolkit/Solution 9 Focus Areas.png",
     "Delivery Excellence Toolkit/5.1 Inner Growth Goals Unlocking Potential and Building Leaders.md",
     "Untitled.md",
     "raw-articles/03 - Deepening the Effectiveness of Core Agile Principles.md",
@@ -216,26 +230,15 @@
     "Delivery Excellence Toolkit",
     "Tips for Writing Technical Articles.md",
     "Topics.md",
-    "Untitled 1.md",
     "README.md",
     "quotes.md",
-    "napkin-selection.png",
     "Book - Building High Performing Teams for Software Applications/Side Notes.md",
-    "abc.md",
-    "raw-articles/Scaling Agile Teams for Large Products. Overcoming the Innovation Slowdown.md",
-    "Series 2025/0.0 Series - HPT.md",
     "Book - Building High Performing Teams for Software Applications",
-    "Series 2025/1.1 The DNA of High-Performing Engineering Teams.md",
     "Series 2025",
-    "refined-articles-chatgpt/04 - Published - Scaling Agile Teams for larger projects.md",
-    "refined-articles-chatgpt/01 - Published - Scaling Large Products. The Art of Breaking Big Systems into Smaller Pieces.md",
     "refined-articles-chatgpt",
     "raw-articles/SpotifyScaling.pdf",
     "raw-articles/SGY PE Charter (v3).pdf",
-    "raw-articles/essence-of-leadership.jpg",
     "raw-articles/Dev Charter - version 2.pdf",
-    "raw-articles",
-    "archive/who-serves-your-customers.JPG",
-    "archive/The Science of High Performance Teams - David Burkus.txt"
+    "raw-articles"
   ]
 }
