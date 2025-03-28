@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Delivery Excellence Toolkit/Book on Psychological Safety by AI AGents.md",
-                "mode": "preview",
+                "file": "Delivery Excellence Toolkit/Team Work.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book on Psychological Safety by AI AGents"
+              "title": "Team Work"
             }
           }
         ],
@@ -195,18 +195,19 @@
   },
   "active": "b1c0505b71722875",
   "lastOpenFiles": [
+    "Delivery Excellence Toolkit/Book on Psychological Safety by AI AGents.md",
+    "Delivery Excellence Toolkit/Team Work.md",
+    "Delivery Excellence Toolkit/Factors Impeding Scale.png",
     "Book - Building High Performing Teams for Software Applications/1.1 Introduction.md",
     "Book - Building High Performing Teams for Software Applications/2.1 Foundations of High-Performing Teams.md",
     "Book - Building High Performing Teams for Software Applications/Book Structure.md",
     "Book - Building High Performing Teams for Software Applications/1.0 Book TOC.md",
-    "Delivery Excellence Toolkit/Book on Psychological Safety by AI AGents.md",
     "archive/Untitled.md",
     "Delivery Excellence Toolkit/what is a software delivery organization.png",
     "Delivery Excellence Toolkit/5.0 Toolkit Links.md",
     "Delivery Excellence Toolkit/1.0 Delivery Organization.md",
     "Delivery Excellence Toolkit/Team Structure.md",
     "Delivery Excellence Toolkit/Solution 9 Focus Areas.png",
-    "Delivery Excellence Toolkit/Factors Impeding Scale.png",
     "Delivery Excellence Toolkit/5.1 Inner Growth Goals Unlocking Potential and Building Leaders.md",
     "Untitled.md",
     "raw-articles/03 - Deepening the Effectiveness of Core Agile Principles.md",
@@ -228,7 +229,6 @@
     "Series 2025",
     "refined-articles-chatgpt/04 - Published - Scaling Agile Teams for larger projects.md",
     "refined-articles-chatgpt/01 - Published - Scaling Large Products. The Art of Breaking Big Systems into Smaller Pieces.md",
-    "refined-articles-chatgpt/02 - Cricket Team as an Example of Cross Functional Team - Gemini.md",
     "refined-articles-chatgpt",
     "raw-articles/SpotifyScaling.pdf",
     "raw-articles/SGY PE Charter (v3).pdf",
